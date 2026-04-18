@@ -29,4 +29,4 @@ npm run dev
 ![ForkNote](./screenshot.png)
 
 ## 🌐 Canlı Demo
-[Uygulamayı Aç](https://benevolent-marzipan-38d963.netlify.app)
+[Uygulamayı Aç](https://forknote-app.netlify.app)
