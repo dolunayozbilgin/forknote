@@ -30,4 +30,4 @@ npm run dev
 
 ## 🌐 Canlı Demo
 
-[benevolent-marzipan-38d963.netlify.app](https://benevolent-marzipan-38d963.netlify.app)
+[benevolent-marzipan-38d963.netlify.app](https://app.netlify.com/projects/forknote-app/domain-management)
