@@ -29,5 +29,4 @@ npm run dev
 ![ForkNote](./screenshot.png)
 
 ## 🌐 Canlı Demo
-
-[benevolent-marzipan-38d963.netlify.app](https://app.netlify.com/projects/forknote-app/domain-management)
+[Uygulamayı Aç](https://benevolent-marzipan-38d963.netlify.app)
